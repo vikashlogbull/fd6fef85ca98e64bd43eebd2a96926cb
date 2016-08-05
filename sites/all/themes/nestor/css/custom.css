@@ -1,0 +1,6 @@
+.bg-color-theme {
+	background-color: #ffb141;
+}
+@media(min-width:992px){
+	#logo-region{margin-top:43px;}
+}
